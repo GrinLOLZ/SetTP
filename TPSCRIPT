@@ -1,4 +1,4 @@
-if _G.Key == "GrinOnTop" then
+
     -- Gui to Lua
   -- Version: 3.2
 
